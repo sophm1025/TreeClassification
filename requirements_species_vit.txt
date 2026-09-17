@@ -1,0 +1,11 @@
+# Species classification stage
+rasterio
+geopandas
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+timm
+shapely
+tqdm

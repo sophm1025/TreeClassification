@@ -791,3 +791,9 @@ The workflow integrates:
 **remote sensing + geospatial processing + instance segmentation + Vision Transformers**
 
 to automate individual tree crown delineation and tree species classification at the site level.
+
+## Contributors
+- Zhuohong Li
+- Sophie Mao
+- Georigy Zemlevskiy
+- Hashim Alrefaei
